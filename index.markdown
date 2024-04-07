@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Landing page
+# Landing
+
+Welcome to my site!

@@ -1,0 +1,17 @@
+---
+---
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.site-header {
+  border: none;
+}
+
+.site-footer {
+  border: none;
+}
