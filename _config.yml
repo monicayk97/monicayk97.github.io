@@ -21,8 +21,7 @@
 title: Hong Gildong
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat ligula a vestibulum condimentum. Quisque iaculis dui ultrices lorem sodales faucibus. Suspendisse ac pretium sapien. Etiam mauris diam, commodo ac cursus vitae, luctus sed est. Etiam at lectus eu nibh pellentesque ullamcorper id vel est. Curabitur a accumsan nisi. Pellentesque non lectus eros.
-
+  Lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
