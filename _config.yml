@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hong Gildong
+title: Monica Kim
 email: your-email@example.com
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Lorem ipsum dolor sit amet
@@ -36,6 +36,14 @@ plugins:
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
 # the internal "default list".
+
+navigation:
+  - text: Contact
+    url: /contact/
+  - text: Poetry
+    url: /poetry/
+  - text: Fiction
+    url: /fiction/
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
