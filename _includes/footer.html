@@ -1,0 +1,8 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+    <div class="socials">
+        {%- for entry in site.minima.social_links -%}
+            {%- include social-item.html item = entry -%}
+        {%- endfor -%}
+    </div>
+</footer>

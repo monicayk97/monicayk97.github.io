@@ -417,7 +417,7 @@ blockquote em {
 
     .site-title {
       font-size: 4rem;
-      font-family: "UnifrakturCook", cursive;
+      font-family: "Oswald", sans-serif;
       color: #f8f0e3;
       font-weight: 700;
       font-style: normal;
@@ -629,7 +629,11 @@ body {
 }
 
 footer {
-  display: none;
+  text-align: center;
+  padding-bottom: 16px;
+  li {
+    list-style-type: none;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
