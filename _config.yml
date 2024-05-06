@@ -44,6 +44,12 @@ navigation:
     url: /poetry/
   - text: Fiction
     url: /fiction/
+
+header_pages:
+  - poetry.md
+  - fiction.md
+  - events.md
+  - contact.md
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
