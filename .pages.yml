@@ -20,6 +20,38 @@ content:
         label: Preview image
         type: image
         description: Image used in the social preview on social networks (e.g. Facebook, Twitter...)
+  - name: index
+    label: Homepage
+    path: index.markdown
+    type: file
+    fields:
+      - name: body
+        label: Body
+        type: rich-text
+  - name: poetry
+    label: Poetry
+    path: poetry.md
+    type: file
+    fields:
+      - name: body
+        label: Body
+        type: rich-text
+  - name: fiction
+    label: Fiction
+    path: fiction.md
+    type: file
+    fields:
+      - name: body
+        label: Body
+        type: rich-text
+  - name: events
+    label: Events
+    path: events.md
+    type: file
+    fields:
+      - name: body
+        label: Body
+        type: rich-text
   - name: contact
     label: Contact
     path: contact.md
