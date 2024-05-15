@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Poetry
-permalink: /poetry
+permalink: /poetry/
 ---
 *   "Lorem ipsum dolor sit amet, consectetur adipiscing elit", [Lorem ipsum dolor sit](google.com)
     
