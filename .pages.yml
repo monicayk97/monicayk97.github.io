@@ -21,7 +21,7 @@ content:
         type: image
         description: Image used in the social preview on social networks (e.g. Facebook, Twitter...)
   - name: contact
-    label: Contact Page
+    label: Contact
     path: contact.md
     type: file
     fields:
