@@ -25,6 +25,9 @@ content:
     path: index.markdown
     type: file
     fields:
+      - name: layout
+        label: Layout
+        type: string
       - name: body
         label: Body
         type: rich-text
