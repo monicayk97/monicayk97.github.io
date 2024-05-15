@@ -36,14 +36,14 @@ content:
     path: poetry.md
     type: file
     fields:
-      - name: layout
-        label: Layout
-        type: string
       - name: title
         label: Title
         type: string
       - name: permalink
         label: Permalink
+        type: string
+      - name: layout
+        label: Layout
         type: string
       - name: body
         label: Body
@@ -53,6 +53,15 @@ content:
     path: fiction.md
     type: file
     fields:
+      - name: title
+        label: Title
+        type: string
+      - name: permalink
+        label: Permalink
+        type: string
+      - name: layout
+        label: Layout
+        type: string
       - name: body
         label: Body
         type: rich-text
@@ -61,6 +70,15 @@ content:
     path: events.md
     type: file
     fields:
+      - name: title
+        label: Title
+        type: string
+      - name: permalink
+        label: Permalink
+        type: string
+      - name: layout
+        label: Layout
+        type: string
       - name: body
         label: Body
         type: rich-text
@@ -69,6 +87,15 @@ content:
     path: contact.md
     type: file
     fields:
+      - name: title
+        label: Title
+        type: string
+      - name: permalink
+        label: Permalink
+        type: string
+      - name: layout
+        label: Layout
+        type: string
       - name: body
         label: Body
         type: rich-text
