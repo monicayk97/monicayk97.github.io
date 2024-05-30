@@ -7,4 +7,4 @@ Monica Kim (she/her) is a queer Korean diasporic writer living on Canarsie & Mun
 
 She has published two chapbooks, _An abridged medical family history & multiverse of selves_ (winner of the inaugural Jane Kenyon Chapbook Prize Award in 2020 at the University of Michigan) and _dreamterludes_ (winner of _The Blue Mountain Review Asian American Chapbook Award_ in 2022).
 
-Monica has also received two Pushcart Prize in Poetry nominations and two Best of the Net nominations. She is a first reader at _Augur Magazine_ and has received support from the Tin House Summer Writing Workshop, Kenyon Review Writers Workshop, Periplus Collective, and The Watering Hole.
+Monica has also received two Pushcart Prize in Poetry nominations and two Best of the Net nominations. She is a first reader at _Augur Magazine_ and has received participated in the Tin House Summer Workshop, Kenyon Review Writers Workshop, Periplus Collective, and The Watering Hole.
