@@ -3,7 +3,7 @@ title: Poetry
 permalink: /poetry/
 layout: page
 ---
-# Forthcoming_:_
+# Forthcoming:
 
 "praise & sorrow ekphrastic," _Shō Poetry Journal_ Issue 5 (July 2024)
 
