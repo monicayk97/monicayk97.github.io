@@ -3,4 +3,12 @@ title: Fiction
 permalink: /fiction/
 layout: page
 ---
-<p style="text-align: center">Fiction Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+["Dreamlapse](https://singaporeunbound.org/suspect-journal/2022/8/5/dreamlapse)," _Singapore Unbound's SUSPECT Journal_ (2022)
+
+["The Red String of Fate,](https://callmebrackets.net/call-me-when-its-over/)" _Call Me \[Brackets\]_ Issue #8: \[Call Me When It's Over\] (2021)
+
+["What the Crow Knows,](https://theaccountmagazine.com/article/kim-21/)" _The Account Magazine_ Issue #16 (2021)
+
+["A Seventeen-Year Cycle,](https://glintjournal.wordpress.com/glint-issue-12-winter-2021/)" _Glint Journal_ Issue 12 (2021)
+
+["I wonder if you –,](https://issuu.com/indicialit/docs/issue-5.1)" _Indicia 5.1_ (2021)
