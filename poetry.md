@@ -5,9 +5,11 @@ layout: page
 ---
 # Forthcoming:
 
-"praise & sorrow ekphrastic," _Shō Poetry Journal_ Issue 5 (July 2024)
+"rubber," _Indiana Review_
 
 # Published:
+
+"praise & sorrow ekphrastic," _Shō Poetry Journal_ Issue 5 (July 2024)
 
 ["Metamorphosis," "Email I Never Sent," and "Triptych: Multiverse,"](https://themarbledsigh.com/2023/09/14/monica-kim-metamorphosis-more/) The Marbled Sigh Issue 1 (2023)
 
