@@ -7,6 +7,12 @@ layout: page
 
 "rubber," _Indiana Review_
 
+_"_Ghazal for Global Sea Women," _Porch Water Press Terra:Soul_
+
+"prayer pantoum," _Identity Theory_
+
+"HOLD A MEMORY," _The Malahat Review_
+
 # Published:
 
 "praise & sorrow ekphrastic," _Shō Poetry Journal_ Issue 5 (July 2024)
