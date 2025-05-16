@@ -7,7 +7,7 @@ layout: page
 
 "rubber," _Indiana Review_
 
-_"_Ghazal for Global Sea Women," _Porch Water Press Terra:Soul_
+"Ghazal for Global Sea Women," _Porch Water Press Terra:Soul_
 
 "prayer pantoum," _Identity Theory_
 
