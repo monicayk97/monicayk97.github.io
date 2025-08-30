@@ -5,15 +5,17 @@ layout: page
 ---
 # Forthcoming:
 
-"rubber," _Indiana Review_
+"prayer pantoum," _Identity Theory_
+
+_"_email i received / sent : middle school" _Cobra Milk Issue 05_
+
+# Published:
 
 "Ghazal for Global Sea Women," _Porch Water Press Terra:Soul_
 
-"prayer pantoum," _Identity Theory_
+"HOLD A MEMORY," _The Malahat Review Issue 231 (Summer 2025)_
 
-"HOLD A MEMORY," _The Malahat Review_
-
-# Published:
+"rubber," _Indiana Review Issue 47.1 (Summer 2025)_
 
 "praise & sorrow ekphrastic," _Shō Poetry Journal_ Issue 5 (July 2024)
 
