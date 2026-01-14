@@ -7,9 +7,9 @@ layout: page
 
 "prayer pantoum," _Identity Theory_
 
-_"_email i received / sent : middle school" _Cobra Milk Issue 05_
-
 # Published:
+
+"[email i received / sent : middle school](https://www.cobra-milk.com/05-monica-kim.html)" _Cobra Milk Issue 05_
 
 "Ghazal for Global Sea Women," _Porch Water Press Terra:Soul_
 
