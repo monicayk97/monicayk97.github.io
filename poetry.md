@@ -5,19 +5,21 @@ layout: page
 ---
 # Forthcoming:
 
-"prayer pantoum," _Identity Theory_
+"ode to bastardizing english," *Foglifter Journal*
+
+"prayer pantoum," *Identity Theory*
 
 # Published:
 
-"[email i received / sent : middle school](https://www.cobra-milk.com/05-monica-kim.html)" _Cobra Milk Issue 05_
+"[email i received / sent : middle school](https://www.cobra-milk.com/05-monica-kim.html)" *Cobra Milk Issue 05*
 
-"Ghazal for Global Sea Women," _Porch Water Press Terra:Soul_
+"Ghazal for Global Sea Women," *Porch Water Press Terra:Soul*
 
-"HOLD A MEMORY," _The Malahat Review Issue 231 (Summer 2025)_
+"HOLD A MEMORY," *The Malahat Review Issue 231 (Summer 2025)*
 
-"rubber," _Indiana Review Issue 47.1 (Summer 2025)_
+"rubber," *Indiana Review Issue 47.1 (Summer 2025)*
 
-"praise & sorrow ekphrastic," _Shō Poetry Journal_ Issue 5 (July 2024)
+"praise & sorrow ekphrastic," *Shō Poetry Journal* Issue 5 (July 2024)
 
 ["Metamorphosis," "Email I Never Sent," and "Triptych: Multiverse,"](https://themarbledsigh.com/2023/09/14/monica-kim-metamorphosis-more/) The Marbled Sigh Issue 1 (2023)
 
