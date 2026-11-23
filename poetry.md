@@ -5,15 +5,15 @@ layout: page
 ---
 # Forthcoming:
 
-"ode to bastardizing english," *Foglifter Journal*
-
 "prayer pantoum," *Identity Theory*
 
 # Published:
 
-"[email i received / sent : middle school](https://www.cobra-milk.com/05-monica-kim.html)" *Cobra Milk Issue 05*
+"ode to bastardizing english," *[Foglifter Journal Volume 11 Issue 2 (2026)](https://www.foglifterjournal.com/shop/11-2)*
 
-"Ghazal for Global Sea Women," *Porch Water Press Terra:Soul*
+"[email i received / sent : middle school](https://www.cobra-milk.com/05-monica-kim.html)" *Cobra Milk Issue 05 (2026)*
+
+"Ghazal for Global Sea Women," *Porch Water Press Terra:Soul (2025)*
 
 "HOLD A MEMORY," *The Malahat Review Issue 231 (Summer 2025)*
 
